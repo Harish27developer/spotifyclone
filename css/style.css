@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* body{
+    background-color:gray;
+    color: rgb(255, 255, 255);
+} */
+.left{
+    width: 25vw;
+    padding: 10px;
+}
+.right{
+   width:75vw ; 
+}
+ul li{
+    width: 14px;
+    list-style: none;
+    gap: 15px;
+    padding-top: 14px;
+    font-weight: bold;
+}
+.heaing {
+    width: 100%;
+    list-style: none;
+    gap: 15px;
+    padding-top: 14px;
+    font-weight: bold;
+    align-items: center;
+    font-size: 13px;
+    padding: 23px 14px;
+}
+.heaing  img{
+    width: 30px;
+}

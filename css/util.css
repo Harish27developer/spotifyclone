@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+}
+.invert{
+    filter: invert(1);
+}
+.bg-black{
+    background:black;
+    color: white;
+}
+.jc{
+    justify-content: center;
+
+}
+.bg-grey{
+    background: #121212;
+    
+}
+.rounded{
+    border: 7px;
+}
+.m-1{
+
+margin: 5px;
+}
+.p-1{
+    padding: 10px;
+}
